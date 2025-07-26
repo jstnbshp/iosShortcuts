@@ -1,0 +1,22 @@
+[
+  {
+    "Date": "2025-07-26",
+    "Vendor": "Corner Market",
+    "Item": "Bananas",
+    "Quantity": 2,
+    "Cost Per Item": 0.50,
+    "Total Cost": 1.00,
+    "Category": "Groceries",
+    "Notes": ""
+  },
+  {
+    "Date": "2025-07-26",
+    "Vendor": "Corner Market",
+    "Item": "Pad Thai",
+    "Quantity": 1,
+    "Cost Per Item": 8.00,
+    "Total Cost": 8.00,
+    "Category": "Prepared Food",
+    "Notes": ""
+  }
+]
