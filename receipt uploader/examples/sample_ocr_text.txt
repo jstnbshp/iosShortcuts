@@ -1,0 +1,8 @@
+Subtotal 9.50
+Tax 0.50
+Total 10.00
+Store: Corner Market
+Date: 2025-07-26
+Items:
+- Bananas 2 x 0.50
+- Pad Thai 1 x 8.00
